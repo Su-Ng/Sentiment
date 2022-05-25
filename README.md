@@ -12,7 +12,7 @@ Out of these 500 000 lines the distribution of the Reviewers voting 1 to 5 are s
 
 ![alt image](ProductRating.png)
 
-Rating food reviews automatically is one of the application NLP(Natural Language Processing). For this repo, we are demonstrating how this is done using VADER algorithm. As this algorithm takes up a lot of memory to execute for 500 000 lines, we have used a small subset of 10 lines to obtain a prelimary result.
+Rating food reviews automatically is one of the application NLP(Natural Language Processing). For this repo, I am demonstrating how this is done using VADER algorithm. As this algorithm takes up a lot of memory to execute for 500 000 lines, I have used a small subset of 10 lines to obtain a prelimary result.
 
 ![alt image](SentimentAnalysis.png)
 
