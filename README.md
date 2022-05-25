@@ -21,6 +21,10 @@ On the right, the original food review made by customers of the product
 
 Using positive and negative words, Vader rates the sentence written by each reviewer.
 
-Thank you for reading this repo.
+In this repo, I used Python programming show how I can do data science concepts to show:
+1) Distribution of Reviews Rating 1 to 5 
+2) Sentiment Analysis using NLP
+
+Thank you for reading this repo. 
 I can be reached as ngsugnee@gmail.com
 
