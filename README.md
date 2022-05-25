@@ -16,4 +16,7 @@ Rating food reviews automatically is one of the application NLP(Natural Language
 
 ![alt image](SentimentAnalysis.png)
 
+On the left, the rating positive, negative or neutral is shown
+On the right, the original food review made by customers of the product
+
 
