@@ -1,4 +1,4 @@
-# Sentiment
+# Sentiment Analysis using NLP(Natural Language Processing)
 This is an illustration how to do Sentiment Analysis on Amazon Fine Food Reviews on a dataset publically available from this site:
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
