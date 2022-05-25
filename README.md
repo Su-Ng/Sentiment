@@ -3,5 +3,8 @@ This is an illustration how to do Sentiment Analysis on Amazon Fine Food Reviews
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 The main purpose of Sentiment Analysis is to find out how the food reviewers feel about their food purchase.
-In this repo I will show how to 
-1) Use Python to plot out 
+In this repo I will like to find out 
+1) The Food Review is rated from 1 to 5. How is the food rating distribution?
+2) How can we rate food reviews automatically, using the scale Positive, Neutral and Negative?
+
+
