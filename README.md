@@ -21,4 +21,6 @@ On the right, the original food review made by customers of the product
 
 Using positive and negative words, Vader rates the sentence written by each reviewer.
 
+Thank you for reading this repo.
+I can be reached as ngsugnee@gmail.com
 
